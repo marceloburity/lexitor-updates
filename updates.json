@@ -1,7 +1,7 @@
 {
   "app": "Lexitor",
-  "latest": "1.0.0",
-  "url": "",
+  "latest": "1.0",
+  "url": "https://github.com/marceloburity/lexitor-updates/releases/download/v1.0/Lexitor_Setup_1.0.exe",
   "sha256": "",
   "notes": "Versão inicial."
 }
