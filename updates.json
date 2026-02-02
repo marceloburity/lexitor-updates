@@ -1,7 +1,7 @@
 {
   "app": "Lexitor",
   "latest": "1.0.1",
-  "url": "https://github.com/marceloburity/lexitor-updates/releases/download/v1.0/Lexitor_Setup_1.0.exe",
-  "sha256": "sha256:6cdba3fabded7b691f6ea484c5ae0f03da6628056b72a0ce5f54868966c7be5b",
-  "notes": "Versão inicial."
+  "url": "https://github.com/marceloburity/lexitor-updates/releases/download/v1.0/Lexitor_Setup_1.0.1.exe",
+  "sha256": "sha256:e2e3324a21f371d69f5bb5006fabf5f265039fcc7c96256137cf2e499bac4e52",
+  "notes":  "Versão 1.0.1: melhorias e correções."
 }
